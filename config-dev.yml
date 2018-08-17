@@ -1,8 +1,3 @@
-#指定日志输出文件
-logging:
-  file: "logs/sso-config.log"
-info:
-  name : "配置中心"
 
 server:
   port: 8888
